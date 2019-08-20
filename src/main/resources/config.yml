@@ -1,0 +1,44 @@
+decimalplaces:
+- ""
+- "K"
+- "M"
+- "B"
+- "T"
+- "Q"
+- "QI"
+- "S"
+- "SEP"
+- "OC"
+- "N"
+- "DEC"
+- "UN"
+- "DUO"
+- "TRE"
+
+shop:
+  "teste":
+    name: "&b&lBlocos"
+    position:
+      row: 1
+      colunm: 2
+    item:
+      material: 2
+      data: 1
+      glow: true
+      lore:
+      - "&7Clique para abrir a"
+      - "&7categoria &6'%categoria%'&7!"
+    items:
+      "0":
+        name: "&abloco 1"
+        id: ""
+        material: 1
+        data: 2
+        amount: 32
+        type: ITEM
+        buyprice: 3000.0
+        sellprice: 5000.0
+        enchantments:
+        - "PROTECTION_ENVIRONMENTAL-10"
+        - "DURABILITY-5"
+

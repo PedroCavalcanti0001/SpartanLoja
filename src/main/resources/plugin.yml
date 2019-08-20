@@ -1,0 +1,7 @@
+name: SpartanLoja
+version: ${project.version}
+main: me.zkingofkill.spartan.loja.Loja
+description: SpartanLoja.
+commands:
+  loja:
+    description: comando para abrir loja!

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SpartanLoja">
+    <output-path>$PROJECT_DIR$/../../Servidores - minecraft/1.8.8/plugins</output-path>
+    <root id="archive" name="SpartanLoja.jar">
+      <element id="module-output" name="ideaProjects - SpartanNetwork" />
+    </root>
+  </artifact>
+</component>
